@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ASCIICombiner": {
+      "commandName": "Project",
+      "commandLineArgs": "brokenHeight1.txt brokenHeight2.txt"
+    }
+  }
+}
